@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Research Fellow with [Nick Golding](https://www.telethonkids.org.au/contact-us/our-people/g/nick-golding/) in the [Infectious Disease Ecology and Modelling team](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at [Telethon Kids Institute](https://www.telethonkids.org.au/). 
+I'm a Research Fellow with [Nick Golding](https://www.telethonkids.org.au/contact-us/our-people/g/nick-golding/) in the [Infectious Disease Ecology and Modelling team](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at [The Kids Research Institute Australia](https://www.thekids.org.au/). 
 
 📍 I work remotely from sunny Turrbal and Jagera land (Brisbane)
 
